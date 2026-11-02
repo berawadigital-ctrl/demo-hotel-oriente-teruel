@@ -1,0 +1,526 @@
+{
+ "schema": "berawa-knowledge/1",
+ "project": "demo-hotel-oriente-teruel",
+ "source_site": "https://www.hotelorientedeteruel.com/",
+ "source_read_at": "2026-11-02T09:20:00+01:00",
+ "note": "Respuestas solo con datos publicados en la web del negocio. Sin coincidencia: el asistente dice que no dispone de la informacion y ofrece contacto.",
+ "entries": [
+  {
+   "id": "K01",
+   "topic": "habitaciones",
+   "keys": {
+    "es": [
+     "que habitaciones",
+     "doble",
+     "triple",
+     "individual",
+     "familiar"
+    ],
+    "en": [
+     "which rooms",
+     "double",
+     "triple",
+     "single",
+     "family"
+    ],
+    "fr": [
+     "quelles chambres",
+     "double",
+     "triple",
+     "individuelle",
+     "familiale"
+    ],
+    "de": [
+     "welche zimmer",
+     "doppel",
+     "dreibett",
+     "einzel",
+     "familie"
+    ]
+   },
+   "a": {
+    "es": "Tienen habitaciones individuales, dobles, triples y familiares. Las dobles, con dos camas individuales o una de matrimonio; las triples, con tres individuales o una doble y una individual.",
+    "en": "They have single, double, triple and family rooms. Doubles have two single beds or a double bed; triples have three singles or a double and a single.",
+    "fr": "Ils ont des chambres individuelles, doubles, triples et familiales. Les doubles ont deux lits simples ou un lit double ; les triples, trois lits simples ou un double et un simple.",
+    "de": "Es gibt Einzel-, Doppel-, Dreibett- und Familienzimmer. Doppelzimmer mit zwei Einzelbetten oder einem Doppelbett; Dreibettzimmer mit drei Einzelbetten oder einem Doppel- und einem Einzelbett."
+   },
+   "sources": [
+    {
+     "url": "https://www.hotelorientedeteruel.com/habitaciones.html",
+     "quote": "Disponemos de habitaciones individuales, dobles, triples y Familiares"
+    },
+    {
+     "url": "https://www.hotelorientedeteruel.com/habitaciones.html",
+     "quote": "Están amuebladas o bien con dos camas individuales o con una cama doble matrimonial"
+    },
+    {
+     "url": "https://www.hotelorientedeteruel.com/habitaciones.html",
+     "quote": "Las habitaciones triples pueden estar equipadas de tres camas individuales o una doble y una individual"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K02",
+   "topic": "equipamiento",
+   "keys": {
+    "es": [
+     "wifi",
+     "television",
+     "aire acondicionado",
+     "secador",
+     "tienen las habitaciones"
+    ],
+    "en": [
+     "wifi",
+     " tv",
+     "air conditioning",
+     "hairdryer",
+     "include"
+    ],
+    "fr": [
+     "wifi",
+     "television",
+     "climatisation",
+     "seche-cheveux",
+     "comprennent"
+    ],
+    "de": [
+     "wlan",
+     "fernseh",
+     "klimaanlage",
+     "fohn",
+     "bieten die zimmer"
+    ]
+   },
+   "a": {
+    "es": "Todas tienen aire acondicionado o calefacción, teléfono, baño completo con secador de pelo y amenities, TV LCD y wifi.",
+    "en": "All have air conditioning or heating, telephone, full bathroom with hairdryer and toiletries, LCD TV and wifi.",
+    "fr": "Toutes ont climatisation ou chauffage, téléphone, salle de bains complète avec sèche-cheveux et produits d’accueil, TV LCD et wifi.",
+    "de": "Alle haben Klimaanlage oder Heizung, Telefon, Bad mit Föhn und Pflegeartikeln, LCD-TV und WLAN."
+   },
+   "sources": [
+    {
+     "url": "https://www.hotelorientedeteruel.com/habitaciones.html",
+     "quote": "Todas nuestras habitaciones cuentan con aire acondicionado o calefacción, teléfono, baño completo con secador de pelo y amenities"
+    },
+    {
+     "url": "https://www.hotelorientedeteruel.com/habitaciones.html",
+     "quote": "Conexión Wi-fi a internet Amenities Secador de pelo Teléfono TV LCD"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K03",
+   "topic": "desayuno",
+   "keys": {
+    "es": [
+     "desayuno",
+     "desayunar",
+     "restaurante"
+    ],
+    "en": [
+     "breakfast",
+     "restaurant"
+    ],
+    "fr": [
+     "petit-dejeuner",
+     "petit dejeuner",
+     "restaurant"
+    ],
+    "de": [
+     "fruhstuck",
+     "restaurant"
+    ]
+   },
+   "a": {
+    "es": "Sí: el restaurante propone cada mañana un desayuno bufet.",
+    "en": "Yes: every morning the restaurant serves a buffet breakfast.",
+    "fr": "Oui : chaque matin, le restaurant propose un petit-déjeuner buffet.",
+    "de": "Ja: Das Restaurant bietet jeden Morgen ein Frühstücksbuffet."
+   },
+   "sources": [
+    {
+     "url": "https://www.hotelorientedeteruel.com/servicios.html",
+     "quote": "un restaurante que le propone cada mañana un apetitoso desayuno bufet"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K04",
+   "topic": "parking",
+   "keys": {
+    "es": [
+     "parking",
+     "aparc",
+     "garaje",
+     "coche"
+    ],
+    "en": [
+     "parking",
+     "garage",
+     "car "
+    ],
+    "fr": [
+     "parking",
+     "garer",
+     "garage",
+     "voiture"
+    ],
+    "de": [
+     "parkplatz",
+     "parken",
+     "garage",
+     " auto"
+    ]
+   },
+   "a": {
+    "es": "Sí, el hotel tiene parking, y allí te limpian gratis el parabrisas del coche.",
+    "en": "Yes, the hotel has parking, where your car’s windscreen is cleaned for free.",
+    "fr": "Oui, l’hôtel a un parking, où le pare-brise de votre voiture est nettoyé gratuitement.",
+    "de": "Ja, das Hotel hat einen Parkplatz; dort wird die Windschutzscheibe kostenlos gereinigt."
+   },
+   "sources": [
+    {
+     "url": "https://www.hotelorientedeteruel.com/servicios.html",
+     "quote": "Restaurante Parking Cunas"
+    },
+    {
+     "url": "https://www.hotelorientedeteruel.com/limpieza-parabrisas.html",
+     "quote": "Limpieza gratuita de parabrisas de su coche en el parking del hotel"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K05",
+   "topic": "gimnasio",
+   "keys": {
+    "es": [
+     "gimnasio",
+     "fitness",
+     "lectura"
+    ],
+    "en": [
+     "gym",
+     "fitness",
+     "reading"
+    ],
+    "fr": [
+     "salle de sport",
+     "fitness",
+     "lecture"
+    ],
+    "de": [
+     "fitness",
+     "leseraum"
+    ]
+   },
+   "a": {
+    "es": "Sí: hay un gimnasio equipado y un salón de lectura.",
+    "en": "Yes: there is an equipped gym and a reading lounge.",
+    "fr": "Oui : il y a une salle de sport équipée et un salon de lecture.",
+    "de": "Ja: Es gibt einen ausgestatteten Fitnessraum und einen Leseraum."
+   },
+   "sources": [
+    {
+     "url": "https://www.hotelorientedeteruel.com/servicios.html",
+     "quote": "Gimnasio equipado Venga a desconectar a nuestro equipado gimnasio. Salón de lectura"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K06",
+   "topic": "recepcion",
+   "keys": {
+    "es": [
+     "recepcion"
+    ],
+    "en": [
+     "reception"
+    ],
+    "fr": [
+     "reception"
+    ],
+    "de": [
+     "rezeption"
+    ]
+   },
+   "a": {
+    "es": "La recepción está abierta de 7 a 23 h.",
+    "en": "Reception is open from 7 to 23 h.",
+    "fr": "La réception est ouverte de 7 h à 23 h.",
+    "de": "Die Rezeption ist von 7 bis 23 Uhr geöffnet."
+   },
+   "sources": [
+    {
+     "url": "https://www.hotelorientedeteruel.com/servicios.html",
+     "quote": "La recepción estará abierta de 7 a 23 h"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K07",
+   "topic": "ubicacion",
+   "keys": {
+    "es": [
+     "donde estais",
+     "direccion",
+     "ubicacion",
+     "llegar"
+    ],
+    "en": [
+     "where are",
+     "address",
+     "location",
+     "get there"
+    ],
+    "fr": [
+     "ou etes",
+     "adresse",
+     "situe",
+     "venir"
+    ],
+    "de": [
+     "wo liegt",
+     "wo ist",
+     "adresse",
+     "anfahrt"
+    ]
+   },
+   "a": {
+    "es": "Está en la Av. Sagunto, 7, 44002 Teruel, en pleno centro.",
+    "en": "It is at Av. Sagunto, 7, 44002 Teruel, right in the centre.",
+    "fr": "L’hôtel se trouve Av. Sagunto, 7, 44002 Teruel, en plein centre.",
+    "de": "Das Hotel liegt an der Av. Sagunto, 7, 44002 Teruel, mitten im Zentrum."
+   },
+   "sources": [
+    {
+     "url": "https://www.hotelorientedeteruel.com/contacto-y-mapa.html",
+     "quote": "Av. Sagunto, 7 44002 Teruel España"
+    },
+    {
+     "url": "https://www.hotelorientedeteruel.com/",
+     "quote": "además de estar ubicados en pleno centro"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K08",
+   "topic": "reservar",
+   "keys": {
+    "es": [
+     "reserv",
+     "disponib",
+     "confirm"
+    ],
+    "en": [
+     "book",
+     "reserv",
+     "availab",
+     "confirm"
+    ],
+    "fr": [
+     "reserv",
+     "disponib",
+     "confirm"
+    ],
+    "de": [
+     "buch",
+     "reserv",
+     "verfugbar",
+     "bestatig"
+    ]
+   },
+   "a": {
+    "es": "Puedes reservar en su motor de reservas (botón Reservar) o llamar al 978 60 15 50. Este asistente no confirma disponibilidad ni reservas.",
+    "en": "You can book through their booking engine (Book button) or call 978 60 15 50. This assistant does not confirm availability or bookings.",
+    "fr": "Vous pouvez réserver via leur moteur de réservation (bouton Réserver) ou appeler le 978 60 15 50. Cet assistant ne confirme ni disponibilité ni réservation.",
+    "de": "Sie können über die Buchungsmaschine buchen (Schaltfläche Buchen) oder unter 978 60 15 50 anrufen. Dieser Assistent bestätigt weder Verfügbarkeit noch Buchungen."
+   },
+   "sources": [
+    {
+     "url": "https://www.hotelorientedeteruel.com/contacto-y-mapa.html",
+     "quote": "Reservas: 978 60 15 50"
+    }
+   ],
+   "cta": true
+  },
+  {
+   "id": "K09",
+   "topic": "late check-out",
+   "keys": {
+    "es": [
+     "mas tarde",
+     "late",
+     "salir tarde"
+    ],
+    "en": [
+     "late",
+     "check out late"
+    ],
+    "fr": [
+     "plus tard",
+     "depart tardif",
+     "late"
+    ],
+    "de": [
+     "spater",
+     "late",
+     "auschecken"
+    ]
+   },
+   "a": {
+    "es": "Ofrecen late check-out según disponibilidad.",
+    "en": "They offer late check-out subject to availability.",
+    "fr": "Ils proposent un départ tardif selon disponibilité.",
+    "de": "Später Check-out ist je nach Verfügbarkeit möglich."
+   },
+   "sources": [
+    {
+     "url": "https://www.hotelorientedeteruel.com/late-check-out.html",
+     "quote": "Late check-out bajo disponibilidad"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K10",
+   "topic": "bicis",
+   "keys": {
+    "es": [
+     "bici",
+     "vengo en bici",
+     "ciclista"
+    ],
+    "en": [
+     "bike",
+     "leave my bike",
+     "cyclist",
+     "bicycle"
+    ],
+    "fr": [
+     "velo",
+     "cycliste"
+    ],
+    "de": [
+     "fahrrad",
+     "radfahrer"
+    ]
+   },
+   "a": {
+    "es": "Las bicicletas se aparcan gratis en el garaje del hotel.",
+    "en": "Bicycles can be parked free of charge in the hotel garage.",
+    "fr": "Les vélos se garent gratuitement dans le garage de l’hôtel.",
+    "de": "Fahrräder können kostenlos in der Hotelgarage abgestellt werden."
+   },
+   "sources": [
+    {
+     "url": "https://www.hotelorientedeteruel.com/cycling-friendly.html",
+     "quote": "Aparcamiento gratuito de bicicletas en garaje"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K11",
+   "topic": "contacto",
+   "keys": {
+    "es": [
+     "telefono",
+     "correo",
+     "email",
+     "contacto",
+     "llamar"
+    ],
+    "en": [
+     "phone",
+     "email",
+     "contact",
+     "call"
+    ],
+    "fr": [
+     "telephone",
+     "courriel",
+     "email",
+     "contact",
+     "appeler"
+    ],
+    "de": [
+     "telefon",
+     "e-mail",
+     "email",
+     "kontakt",
+     "anrufen"
+    ]
+   },
+   "a": {
+    "es": "Teléfono: 978 60 15 50. Correo: recepcion@hotelorientedeteruel.com.",
+    "en": "Phone: 978 60 15 50. Email: recepcion@hotelorientedeteruel.com.",
+    "fr": "Téléphone : 978 60 15 50. E-mail : recepcion@hotelorientedeteruel.com.",
+    "de": "Telefon: 978 60 15 50. E-Mail: recepcion@hotelorientedeteruel.com."
+   },
+   "sources": [
+    {
+     "url": "https://www.hotelorientedeteruel.com/contacto-y-mapa.html",
+     "quote": "Reservas: 978 60 15 50 Anulaciones: 978 60 15 50 Email: recepcion@hotelorientedeteruel.com"
+    }
+   ],
+   "cta": true
+  },
+  {
+   "id": "K12",
+   "topic": "cunas",
+   "keys": {
+    "es": [
+     "cuna",
+     "bebe",
+     "supletoria",
+     "nino"
+    ],
+    "en": [
+     " cot",
+     "crib",
+     "baby",
+     "extra bed",
+     "child"
+    ],
+    "fr": [
+     "lit bebe",
+     "lits bebe",
+     "bebe",
+     "lit d’appoint",
+     "enfant"
+    ],
+    "de": [
+     "kinderbett",
+     "baby",
+     "zustellbett",
+     "kinder"
+    ]
+   },
+   "a": {
+    "es": "Hay cunas y camas supletorias bajo petición, y los más pequeños reciben un obsequio infantil de bienvenida.",
+    "en": "Cots and extra beds are available on request, and little ones get a welcome gift.",
+    "fr": "Lits bébé et lits d’appoint sur demande, et les plus petits reçoivent un cadeau de bienvenue.",
+    "de": "Kinderbetten und Zustellbetten gibt es auf Anfrage, und die Kleinen bekommen ein Willkommensgeschenk."
+   },
+   "sources": [
+    {
+     "url": "https://www.hotelorientedeteruel.com/servicios.html",
+     "quote": "Camas supletorias (bajo petición) Cunas (bajo petición)"
+    },
+    {
+     "url": "https://www.hotelorientedeteruel.com/regalo-sorpresa-ninos.html",
+     "quote": "Sorprenderemos a los mas pequeños con un obsequio infantil de bienvenida"
+    }
+   ],
+   "cta": false
+  }
+ ]
+}
