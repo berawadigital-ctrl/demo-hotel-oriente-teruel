@@ -1,0 +1,63 @@
+{
+ "schema": "berawa-project/1",
+ "slug": "demo-hotel-oriente-teruel",
+ "template_version": "webfactory-2026.10.28+modelo-cazorla-6cfa67d",
+ "created_at": "2026-11-02T09:19:00+01:00",
+ "updated_at": "2026-11-02T09:30:00+01:00",
+ "business": {
+  "name": "Hotel Oriente",
+  "legal_name": "SOMNUS TERUEL SL, NIF B88855159 (aviso legal de su web)",
+  "registry_ids": [
+   "B88855159"
+  ],
+  "url": "https://www.hotelorientedeteruel.com/",
+  "domain": "hotelorientedeteruel.com",
+  "municipality": "Teruel",
+  "province": "Teruel",
+  "address": "Av. Sagunto, 7 · 44002 Teruel",
+  "phones": [
+   "+34 978 60 15 50"
+  ],
+  "emails": [
+   "recepcion@hotelorientedeteruel.com"
+  ],
+  "sector": "hotel de tres estrellas en el centro de Teruel"
+ },
+ "rating": {
+  "value": 4.2,
+  "source": "Google Maps (maps_rating.py, ficha comprobada por tel, web)",
+  "url": "https://www.google.com/maps/place/Hotel+Oriente/@40.3365733,-1.104636,17z",
+  "date": "2026-10-29",
+  "threshold": 4.0
+ },
+ "languages": [
+  "es",
+  "en",
+  "fr",
+  "de"
+ ],
+ "noindex": true,
+ "notice_es": "Propuesta de rediseño independiente, no oficial",
+ "chatbot": {
+  "api": false,
+  "kind": "base local de respuestas verificadas",
+  "knowledge": "berawa/knowledge.json",
+  "fallback_es": "No dispongo de esa información"
+ },
+ "book": {
+  "mode": "engine",
+  "url": "https://www.hotelorientedeteruel.com/disponibilidad.html",
+  "note": "motor booking-channel de su propia web: disponibilidad.html (es) y EN/availability.html (en; el motor solo tiene ES y EN, se usa EN para fr/de). HTTP 200 los dos (02/11/2026 09:22)."
+ },
+ "audit_original": {
+  "url": "https://www.hotelorientedeteruel.com/",
+  "date": "2026-11-02T09:20:00+01:00",
+  "veredicto": "LCP > 4 s",
+  "tool": "filtro_mala_web.py (Lighthouse movil, mediana de 3 pasadas)"
+ },
+ "first_of_type": "no aplica: alojamiento con precedente en demos anteriores",
+ "codex": {
+  "audits": []
+ },
+ "changes_log": "ver CORRECCIONES.md (si existe) y berawa/V1.0-CAMBIOS.md"
+}
