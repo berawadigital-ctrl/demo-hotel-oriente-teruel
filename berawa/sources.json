@@ -1,0 +1,63 @@
+{
+ "schema": "berawa-sources/1",
+ "site": "https://www.hotelorientedeteruel.com/",
+ "read_at": "2026-11-02T09:20:00+01:00",
+ "method": "Texto visible de cada pagina leido de la web publica del negocio en la fecha indicada (fetch_sources.py) y guardado en berawa/evidence/source-text.json; las citas del chatbot se comprueban contra ese texto con check_kb.py.",
+ "pages": [
+  {
+   "url": "https://www.hotelorientedeteruel.com/",
+   "sha256": "552a492df398a73c8433372282814d86bdc3547df8c21bcf1746d50d3fe97904",
+   "chars": 4307
+  },
+  {
+   "url": "https://www.hotelorientedeteruel.com/contacto-y-mapa.html",
+   "sha256": "4b04b7dd96406d3275f69852f6daaeeb97514941888ac95268964b0739e71c3e",
+   "chars": 3750
+  },
+  {
+   "url": "https://www.hotelorientedeteruel.com/cycling-friendly.html",
+   "sha256": "5b0b082fc24efe8c1dcfa6e9b6a3518c72032fd1daa3f15c8f9d3e31bda88655",
+   "chars": 2421
+  },
+  {
+   "url": "https://www.hotelorientedeteruel.com/habitaciones.html",
+   "sha256": "6e6b68202e04535c0d89c75280a3d00deb461587f3f4396e4b974f976e9bd88d",
+   "chars": 3664
+  },
+  {
+   "url": "https://www.hotelorientedeteruel.com/late-check-out.html",
+   "sha256": "6abb1e1808d18521226d85ee7a3ff7c75dc8a6fa2b4cce7c221976daab064167",
+   "chars": 2405
+  },
+  {
+   "url": "https://www.hotelorientedeteruel.com/limpieza-parabrisas.html",
+   "sha256": "b6f60f277c182caced5b440b97a868f8b7a88e4674772e781e58b5ef61a6b41b",
+   "chars": 2452
+  },
+  {
+   "url": "https://www.hotelorientedeteruel.com/regalo-sorpresa-ninos.html",
+   "sha256": "0ef9b30968caf9d37d0aa0ae3b321fe6a76d3efb73bca441b2d9ed56618ba749",
+   "chars": 2458
+  },
+  {
+   "url": "https://www.hotelorientedeteruel.com/servicios.html",
+   "sha256": "52f8659e1f15b9559c5dc5269632878aac017b7b8b9500cb16f31a87d634b309",
+   "chars": 3832
+  }
+ ],
+ "other_pages_read": [
+  "https://hotelorientedeteruel.com",
+  "https://hotelorientedeteruel.com/",
+  "https://www.hotelorientedeteruel.com/EN/hotel.html",
+  "https://www.hotelorientedeteruel.com/habitacion-doble.html",
+  "https://www.hotelorientedeteruel.com/habitacion-triple.html",
+  "https://www.hotelorientedeteruel.com/habitacion-twin-dos-camas-1-persona.html",
+  "https://www.hotelorientedeteruel.com/index.php?action=muestra_elemento&idioma=ES&id_elemento=135473",
+  "https://www.hotelorientedeteruel.com/index.php?action=muestra_elemento&idioma=ES&id_elemento=135474",
+  "https://www.hotelorientedeteruel.com/index.php?action=muestra_elemento&idioma=ES&id_elemento=135475",
+  "https://www.hotelorientedeteruel.com/index.php?action=muestra_elemento&idioma=ES&id_elemento=135476",
+  "https://www.hotelorientedeteruel.com/mejor-precio-disponible.html",
+  "https://www.hotelorientedeteruel.com/mi-reserva.html",
+  "https://www.hotelorientedeteruel.com/promociones.html"
+ ]
+}
