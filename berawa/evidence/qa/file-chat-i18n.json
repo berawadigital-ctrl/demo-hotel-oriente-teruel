@@ -1,0 +1,422 @@
+{
+ "url": "file:///tmp/clon-hotel-oriente-teruel/repo/index.html",
+ "langs": {
+  "es": {
+   "textos_iguales_al_es": [],
+   "chat": [
+    {
+     "q": "¿Qué habitaciones tenéis?",
+     "esperado": "K01",
+     "ok": true,
+     "respuesta": "Tienen habitaciones individuales, dobles, triples y familiares. Las dobles, con dos camas individuales o una de matrimonio; las triples, con"
+    },
+    {
+     "q": "¿Qué tienen las habitaciones?",
+     "esperado": "K02",
+     "ok": true,
+     "respuesta": "Todas tienen aire acondicionado o calefacción, teléfono, baño completo con secador de pelo y amenities, TV LCD y wifi."
+    },
+    {
+     "q": "¿Hay desayuno?",
+     "esperado": "K03",
+     "ok": true,
+     "respuesta": "Sí: el restaurante propone cada mañana un desayuno bufet."
+    },
+    {
+     "q": "¿Tenéis parking?",
+     "esperado": "K04",
+     "ok": true,
+     "respuesta": "Sí, el hotel tiene parking, y allí te limpian gratis el parabrisas del coche."
+    },
+    {
+     "q": "¿Tenéis gimnasio?",
+     "esperado": "K05",
+     "ok": true,
+     "respuesta": "Sí: hay un gimnasio equipado y un salón de lectura."
+    },
+    {
+     "q": "¿A qué hora abre la recepción?",
+     "esperado": "K06",
+     "ok": true,
+     "respuesta": "La recepción está abierta de 7 a 23 h."
+    },
+    {
+     "q": "¿Dónde estáis?",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "Está en la Av. Sagunto, 7, 44002 Teruel, en pleno centro."
+    },
+    {
+     "q": "¿Cómo reservo?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "Puedes reservar en su motor de reservas (botón Reservar) o llamar al 978 60 15 50. Este asistente no confirma disponibilidad ni reservas. Co"
+    },
+    {
+     "q": "¿Podéis confirmarme disponibilidad para mañana?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "Puedes reservar en su motor de reservas (botón Reservar) o llamar al 978 60 15 50. Este asistente no confirma disponibilidad ni reservas. Co"
+    },
+    {
+     "q": "¿Puedo salir más tarde?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "Ofrecen late check-out según disponibilidad."
+    },
+    {
+     "q": "¿Vengo en bici, dónde la dejo?",
+     "esperado": "K10",
+     "ok": true,
+     "respuesta": "Las bicicletas se aparcan gratis en el garaje del hotel."
+    },
+    {
+     "q": "¿Cuál es vuestro teléfono?",
+     "esperado": "K11",
+     "ok": true,
+     "respuesta": "Teléfono: 978 60 15 50. Correo: recepcion@hotelorientedeteruel.com. Consultar por WhatsApp →"
+    },
+    {
+     "q": "¿Tenéis cunas?",
+     "esperado": "K12",
+     "ok": true,
+     "respuesta": "Hay cunas y camas supletorias bajo petición, y los más pequeños reciben un obsequio infantil de bienvenida."
+    },
+    {
+     "q": "¿Cuánto cuesta la noche?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "No dispongo de esa información. Escríbenos o llámanos: +34 978 60 15 50 · recepcion@hotelorientedeteruel.com."
+    },
+    {
+     "q": "¿Tenéis piscina?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "No dispongo de esa información. Escríbenos o llámanos: +34 978 60 15 50 · recepcion@hotelorientedeteruel.com."
+    }
+   ],
+   "chips": [
+    "¿Qué habitaciones tenéis?",
+    "¿Hay desayuno?",
+    "¿Tenéis parking?",
+    "¿Cómo reservo?"
+   ]
+  },
+  "en": {
+   "textos_iguales_al_es": [
+    "hero_k",
+    "intro_k",
+    "stat3"
+   ],
+   "chat": [
+    {
+     "q": "Which rooms do you have?",
+     "esperado": "K01",
+     "ok": true,
+     "respuesta": "They have single, double, triple and family rooms. Doubles have two single beds or a double bed; triples have three singles or a double and "
+    },
+    {
+     "q": "What do the rooms include?",
+     "esperado": "K02",
+     "ok": true,
+     "respuesta": "All have air conditioning or heating, telephone, full bathroom with hairdryer and toiletries, LCD TV and wifi."
+    },
+    {
+     "q": "Is there breakfast?",
+     "esperado": "K03",
+     "ok": true,
+     "respuesta": "Yes: every morning the restaurant serves a buffet breakfast."
+    },
+    {
+     "q": "Do you have parking?",
+     "esperado": "K04",
+     "ok": true,
+     "respuesta": "Yes, the hotel has parking, where your car’s windscreen is cleaned for free."
+    },
+    {
+     "q": "Do you have a gym?",
+     "esperado": "K05",
+     "ok": true,
+     "respuesta": "Yes: there is an equipped gym and a reading lounge."
+    },
+    {
+     "q": "When is reception open?",
+     "esperado": "K06",
+     "ok": true,
+     "respuesta": "Reception is open from 7 to 23 h."
+    },
+    {
+     "q": "Where are you?",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "It is at Av. Sagunto, 7, 44002 Teruel, right in the centre."
+    },
+    {
+     "q": "How do I book?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "You can book through their booking engine (Book button) or call 978 60 15 50. This assistant does not confirm availability or bookings. Ask "
+    },
+    {
+     "q": "Can you confirm availability for tomorrow?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "You can book through their booking engine (Book button) or call 978 60 15 50. This assistant does not confirm availability or bookings. Ask "
+    },
+    {
+     "q": "Can I check out late?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "They offer late check-out subject to availability."
+    },
+    {
+     "q": "Where can I leave my bike?",
+     "esperado": "K10",
+     "ok": true,
+     "respuesta": "Bicycles can be parked free of charge in the hotel garage."
+    },
+    {
+     "q": "What is your phone number?",
+     "esperado": "K11",
+     "ok": true,
+     "respuesta": "Phone: 978 60 15 50. Email: recepcion@hotelorientedeteruel.com. Ask on WhatsApp →"
+    },
+    {
+     "q": "Do you have cots?",
+     "esperado": "K12",
+     "ok": true,
+     "respuesta": "Cots and extra beds are available on request, and little ones get a welcome gift."
+    },
+    {
+     "q": "How much is a night?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "I don't have that information. Please contact us: +34 978 60 15 50 · recepcion@hotelorientedeteruel.com."
+    },
+    {
+     "q": "Do you have a pool?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "I don't have that information. Please contact us: +34 978 60 15 50 · recepcion@hotelorientedeteruel.com."
+    }
+   ],
+   "chips": [
+    "Which rooms do you have?",
+    "Is there breakfast?",
+    "Do you have parking?",
+    "How do I book?"
+   ]
+  },
+  "fr": {
+   "textos_iguales_al_es": [
+    "hero_k",
+    "intro_k",
+    "stat3"
+   ],
+   "chat": [
+    {
+     "q": "Quelles chambres avez-vous ?",
+     "esperado": "K01",
+     "ok": true,
+     "respuesta": "Ils ont des chambres individuelles, doubles, triples et familiales. Les doubles ont deux lits simples ou un lit double ; les triples, trois "
+    },
+    {
+     "q": "Que comprennent les chambres ?",
+     "esperado": "K02",
+     "ok": true,
+     "respuesta": "Toutes ont climatisation ou chauffage, téléphone, salle de bains complète avec sèche-cheveux et produits d’accueil, TV LCD et wifi."
+    },
+    {
+     "q": "Y a-t-il un petit-déjeuner ?",
+     "esperado": "K03",
+     "ok": true,
+     "respuesta": "Oui : chaque matin, le restaurant propose un petit-déjeuner buffet."
+    },
+    {
+     "q": "Avez-vous un parking ?",
+     "esperado": "K04",
+     "ok": true,
+     "respuesta": "Oui, l’hôtel a un parking, où le pare-brise de votre voiture est nettoyé gratuitement."
+    },
+    {
+     "q": "Avez-vous une salle de sport ?",
+     "esperado": "K05",
+     "ok": true,
+     "respuesta": "Oui : il y a une salle de sport équipée et un salon de lecture."
+    },
+    {
+     "q": "Quand la réception est-elle ouverte ?",
+     "esperado": "K06",
+     "ok": true,
+     "respuesta": "La réception est ouverte de 7 h à 23 h."
+    },
+    {
+     "q": "Où êtes-vous ?",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "L’hôtel se trouve Av. Sagunto, 7, 44002 Teruel, en plein centre."
+    },
+    {
+     "q": "Comment réserver ?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "Vous pouvez réserver via leur moteur de réservation (bouton Réserver) ou appeler le 978 60 15 50. Cet assistant ne confirme ni disponibilité"
+    },
+    {
+     "q": "Pouvez-vous me confirmer la disponibilité pour demain ?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "Vous pouvez réserver via leur moteur de réservation (bouton Réserver) ou appeler le 978 60 15 50. Cet assistant ne confirme ni disponibilité"
+    },
+    {
+     "q": "Puis-je partir plus tard ?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "Ils proposent un départ tardif selon disponibilité."
+    },
+    {
+     "q": "Où laisser mon vélo ?",
+     "esperado": "K10",
+     "ok": true,
+     "respuesta": "Les vélos se garent gratuitement dans le garage de l’hôtel."
+    },
+    {
+     "q": "Quel est votre numéro de téléphone ?",
+     "esperado": "K11",
+     "ok": true,
+     "respuesta": "Téléphone : 978 60 15 50. E-mail : recepcion@hotelorientedeteruel.com. Écrire sur WhatsApp →"
+    },
+    {
+     "q": "Avez-vous des lits bébé ?",
+     "esperado": "K12",
+     "ok": true,
+     "respuesta": "Lits bébé et lits d’appoint sur demande, et les plus petits reçoivent un cadeau de bienvenue."
+    },
+    {
+     "q": "Combien coûte la nuit ?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "Je ne dispose pas de cette information. Contactez-nous : +34 978 60 15 50 · recepcion@hotelorientedeteruel.com."
+    },
+    {
+     "q": "Avez-vous une piscine ?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "Je ne dispose pas de cette information. Contactez-nous : +34 978 60 15 50 · recepcion@hotelorientedeteruel.com."
+    }
+   ],
+   "chips": [
+    "Quelles chambres avez-vous ?",
+    "Y a-t-il un petit-déjeuner ?",
+    "Avez-vous un parking ?",
+    "Comment réserver ?"
+   ]
+  },
+  "de": {
+   "textos_iguales_al_es": [
+    "hero_k",
+    "intro_k"
+   ],
+   "chat": [
+    {
+     "q": "Welche Zimmer gibt es?",
+     "esperado": "K01",
+     "ok": true,
+     "respuesta": "Es gibt Einzel-, Doppel-, Dreibett- und Familienzimmer. Doppelzimmer mit zwei Einzelbetten oder einem Doppelbett; Dreibettzimmer mit drei Ei"
+    },
+    {
+     "q": "Was bieten die Zimmer?",
+     "esperado": "K02",
+     "ok": true,
+     "respuesta": "Alle haben Klimaanlage oder Heizung, Telefon, Bad mit Föhn und Pflegeartikeln, LCD-TV und WLAN."
+    },
+    {
+     "q": "Gibt es Frühstück?",
+     "esperado": "K03",
+     "ok": true,
+     "respuesta": "Ja: Das Restaurant bietet jeden Morgen ein Frühstücksbuffet."
+    },
+    {
+     "q": "Gibt es einen Parkplatz?",
+     "esperado": "K04",
+     "ok": true,
+     "respuesta": "Ja, das Hotel hat einen Parkplatz; dort wird die Windschutzscheibe kostenlos gereinigt."
+    },
+    {
+     "q": "Gibt es einen Fitnessraum?",
+     "esperado": "K05",
+     "ok": true,
+     "respuesta": "Ja: Es gibt einen ausgestatteten Fitnessraum und einen Leseraum."
+    },
+    {
+     "q": "Wann ist die Rezeption geöffnet?",
+     "esperado": "K06",
+     "ok": true,
+     "respuesta": "Die Rezeption ist von 7 bis 23 Uhr geöffnet."
+    },
+    {
+     "q": "Wo liegt das Hotel?",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "Das Hotel liegt an der Av. Sagunto, 7, 44002 Teruel, mitten im Zentrum."
+    },
+    {
+     "q": "Wie kann ich buchen?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "Sie können über die Buchungsmaschine buchen (Schaltfläche Buchen) oder unter 978 60 15 50 anrufen. Dieser Assistent bestätigt weder Verfügba"
+    },
+    {
+     "q": "Können Sie mir die Verfügbarkeit für morgen bestätigen?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "Sie können über die Buchungsmaschine buchen (Schaltfläche Buchen) oder unter 978 60 15 50 anrufen. Dieser Assistent bestätigt weder Verfügba"
+    },
+    {
+     "q": "Kann ich später auschecken?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "Später Check-out ist je nach Verfügbarkeit möglich."
+    },
+    {
+     "q": "Wo kann ich mein Fahrrad lassen?",
+     "esperado": "K10",
+     "ok": true,
+     "respuesta": "Fahrräder können kostenlos in der Hotelgarage abgestellt werden."
+    },
+    {
+     "q": "Wie ist Ihre Telefonnummer?",
+     "esperado": "K11",
+     "ok": true,
+     "respuesta": "Telefon: 978 60 15 50. E-Mail: recepcion@hotelorientedeteruel.com. Per WhatsApp schreiben →"
+    },
+    {
+     "q": "Haben Sie Kinderbetten?",
+     "esperado": "K12",
+     "ok": true,
+     "respuesta": "Kinderbetten und Zustellbetten gibt es auf Anfrage, und die Kleinen bekommen ein Willkommensgeschenk."
+    },
+    {
+     "q": "Was kostet eine Nacht?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "Diese Information liegt mir nicht vor. Schreiben oder rufen Sie uns an: +34 978 60 15 50 · recepcion@hotelorientedeteruel.com."
+    },
+    {
+     "q": "Haben Sie einen Pool?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "Diese Information liegt mir nicht vor. Schreiben oder rufen Sie uns an: +34 978 60 15 50 · recepcion@hotelorientedeteruel.com."
+    }
+   ],
+   "chips": [
+    "Welche Zimmer gibt es?",
+    "Gibt es Frühstück?",
+    "Gibt es einen Parkplatz?",
+    "Wie kann ich buchen?"
+   ]
+  }
+ },
+ "fail": [],
+ "ok": true
+}
